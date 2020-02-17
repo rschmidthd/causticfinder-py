@@ -6,7 +6,7 @@ Open source implementation of the analytical method by Witt (1990,1991) in gravi
 find the locations of critical curves and caustics for an abritrary number of stars.
 
 This code is a translation to a python jupyter notebook of the program Caustic Finder originally released by myself
-under the GNU public license here: causticfinder.sourcefourge.net (originally written in C). The code was extended
+under the GNU public license here: https://causticfinder.sourcefourge.net (originally written in C). The code was extended
 to also allow for stars with different masses.
 
 Reference for the GNU public license: http://www.gnu.org/licenses/gpl.html
