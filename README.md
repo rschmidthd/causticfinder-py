@@ -13,6 +13,7 @@ Reference for the GNU public license: http://www.gnu.org/licenses/gpl.html
 
 
 References:
+
 Witt, H.-J., 1990, A&A 236, 311, https://ui.adsabs.harvard.edu/abs/1990A%26A...236..311W/abstract
 
 Witt, H-J., 1991, PhD thesis, University of Hamburg
